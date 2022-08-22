@@ -41,6 +41,5 @@ const updateCount = (el) => {
   }, 1);
 };
 `
-
-# LIVE (https://naveenms45.github.io/Numbers)
+[LIVE](https://naveenms45.github.io/Numbers)
 
