@@ -44,5 +44,5 @@ const updateCount = (el) => {
 
 # LIVE
 
-(https://naveenms45.github.io/Numbers/)
+watch live[https://naveenms45.github.io/Numbers]
 
