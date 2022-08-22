@@ -1,5 +1,8 @@
 ## Numbers Project
 
+# LIVE
+(https://naveenms45.github.io/Numbers)
+
 #### Structure (HTML)
 
 - section
@@ -41,5 +44,4 @@ const updateCount = (el) => {
   }, 1);
 };
 `
-[LIVE](https://naveenms45.github.io/Numbers)
 
